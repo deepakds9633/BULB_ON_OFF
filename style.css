@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+
+}
+#bulb{
+    width: 400px;
+    height: 400px;
+}
+/* button{
+    height: 30px;
+    width: 120px;
+    background-color: black;
+    color: white;
+} */
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
